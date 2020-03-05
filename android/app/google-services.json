@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100245767488",
+    "firebase_url": "https://refranes-e1495.firebaseio.com",
+    "project_id": "refranes-e1495",
+    "storage_bucket": "refranes-e1495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100245767488:android:65db71b40ab3c0111fa6a5",
+        "android_client_info": {
+          "package_name": "pro.imagenes.frases.refranes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100245767488-bl92q92l9mu9he4c6fhsoem601lc89jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1pVznCxA51u860pDsCSo0m1LkVaVprQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100245767488-bl92q92l9mu9he4c6fhsoem601lc89jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
