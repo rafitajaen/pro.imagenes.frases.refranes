@@ -1,0 +1,146 @@
+{
+    "appTitle" : "Refranes.",
+    "appSubtitle": "Descubre. Descarga.",
+    "appSubtitleSecondLine" : "Comparte.",
+
+    "appDirectoryName" : "Refranes", 
+
+    "loginPageSignInWithGoogle" : "Continuar con Google Account",
+    "loginPageSignInAnonymously" : "COMENZAR",
+    
+    "homePageTitleDiscover" : "Descubre",
+    "rewardPageTitle" : "Recompensas",
+    "rewardPageInstructions" : "Completa las siguientes acciones para conseguir recompensas y así poder descargar tus refranes preferidos",
+    "rewardPageReward" : "Recompensa",
+    "rewardPageCompleted" : "Completado",
+    "rewardPageOf" : "de",
+
+    "favoritesPageTitle" : "Favoritos",
+
+    "languagePageTitle" : "Idiomas",
+    "languagesPage" : "Mostrar Refranes en:",
+
+    "detailPageBack" : "ATRÁS",
+    "detailPageMeaning" : "Significado",
+
+    "tagNamesAll" : "Todos",
+    "tagNamesPopular" : "Popular",
+    "tagNamesNewest" : "Nuevos",
+    "tagNamesPremium" : "Premium",
+
+    "drawerGetMoreCoins" : "Consigue más monedas",
+    "drawerFavorites" : "Favoritos",
+    "drawerNewApps" : "Nuevas Apps",
+    "drawerRateApp" : "Califícanos",
+    "drawerShareApp" : "Comparte nuestra App",
+    "drawerFeedback" : "Feedback",
+    "drawerLanguages" : "Idiomas",
+    "drawerSignOut" : "Desconectar",
+    "drawerPremiumUser" : "Súper-Refranero",
+
+    "rewardsConsecutivesDays" : "Días Consecutivos Conectado",
+    "rewardsShareProverb" : "Comparte Refranes",
+    "rewardsDownloadProverb" : "Descarga Refranes",
+    "rewardsAddFavoriteProverb" : "Añade a Favoritos",
+    "rewardsRateApp" : "Calificanos",
+    "rewardsFeedback" : "Danos tu opinión",
+    "rewardsShareApp" : "Comparte App",
+
+    "detailPageLikeButton" : "Me gusta",
+    "detailPageShareButton" : "Compartir",
+    "detailPageDownloadButton" : "Descargar",
+
+    "shareCTA" : "Descarga Refranes Populares en Google Play",
+    "shareSubject" : "¡Quiero compartir una frase contigo!",
+
+    "addFavoriteDialogTitle" : "Añadir a Favoritos",
+    "addFavoriteDialogDescription" : "¡Felicidades! Acabas de conseguir {coinsRewarded} Coins por Añadir {currentPoints} Refranes a Favoritos.\n\n¿Quieres doblar tu recompensa?.",
+
+    "shareProverbsDialogTitle" : "Compartir {currentPoints} Refranes",
+    "shareProverbsDialogDescription" : "¡Felicidades! Has conseguido {coinsRewarded} Coins por compartir {currentPoints} Refranes.\n\n¿Quieres doblar tu recompensa?.",
+
+    "consecutiveDaysDialogTitle" : "{currentPoints} Días Consecutivos Conectado",
+    "consecutiveDaysDialogDescription" : "¡Felicidades! Has conseguido {coinsRewarded} Coins por conectarte {currentPoints} días consecutivos a nuestra App.\n\n¿Quieres doblar tu recompensa?.",
+
+    "downloadProverbsDialogTitle" : "Descargar {currentPoints} Refranes",
+    "downloadProverbsDialogDescription" : "¡Felicidades! Has conseguido {coinsRewarded} Coins por descargar {currentPoints} Refranes.\n\n¿Quieres doblar tu recompensa?.",
+    
+    "feedbackDialogTitle" : "Encuesta Completada",
+    "feedbackDialogDescription" : "¡Felicidades! Has conseguido {coinsRewarded} Coins por ayudarnos a mejorar nuestra App.\n\n¿Quieres doblar tu recompensa?.",
+
+    "rateAppDialogTitle" : "App Puntuada",
+    "rateAppDialogDescription" : "¡Felicidades! Has conseguido {coinsRewarded} Coins por puntuar nuestra App.\n\n¿Quieres doblar tu recompensa?.",
+
+    "shareAppDialogTitle" : "App Compartida",
+    "shareAppDialogDescription" : "¡Felicidades! Has conseguido {coinsRewarded} Coins por compartir nuestra App.\n\n¿Quieres doblar tu recompensa?.",
+
+    "dialogButtonDoubleCoins" : "¡Quiero el doble!",
+    "dialogButtonOK" : "VALE",
+
+    "needMoreCoinsDialogTitle" : "Necesitas más Coins",
+    "needMoreCoinsDialogDescription" : "Necesitas conseguir al menos {coinsNeeded} Coins más para poder descargar este Refrán.",
+    "needMoreCoinsDialogButtonText" : "¡A POR ELLOS!",
+
+    "imageSaveSuccesfullyDialogTitle" : "Archivo Guardado Correctamente",
+    "imageSaveSuccesfullyDialogDescription" : "Podrás encontrarlo en la carpeta \"Refranes\", dentro de tu galería.",
+    "imageSaveSuccesfullyDialogButtonText" : "¡GRACIAS!",
+
+    "imageSaveErrorDialogTitle" : "Error al descargar",
+    "imageSaveErrorDialogDescription" : "Se ha producido un error al descargar.\n\nComprueba que tienes espacio suficiente en tu dispositivo.",
+    "imageSaveErrorDialogButtonText" : "¡Volveré a Intentarlo!",
+
+    "promotedAppsPageTitle" : "Nuevas Apps",
+    "promotedAppsPageInstallButton" : "INSTALAR",
+
+    "promotedAppsTopTitle": "Descarga nuestras nuevas Apps",
+
+    "feedbackPageTitle" : "Feedback",
+
+    "feedbackStepZeroQuestion" : "Responde a las siguientes preguntas",
+    "feedbackStepZeroSubQuestion" : "¡Ser Sincero es muy fácil!\n\nTu opinión nos ayudará a mejorar nuestra aplicación.\n\nComo recompensa al finalizar el cuestionario recibirás una montaña de monedas para que sigas descargando tus refranes favoritos.",
+
+    "feedbackStepOneQuestion" : "¿Qué puntuación le darías a la aplicación?",
+
+    "feedbackStepTwoQuestion" : "Puntúa la calidad de los Refranes:",
+
+    "feedbackStepThreeQuestion" : "Puntúa la calidad de las imágenes:",
+
+    "feedbackStepFourQuestion" : "¿Hay disponible suficientes Refranes en la App?",
+
+    "feedbackStepFiveQuestion": "Puntúa la cantidad de anuncios en nuestra App",
+
+    "feedbackStepSixQuestion" : "¡Lo has conseguido!",
+    "feedbackStepSixSubQuestion" : "Ya tenemos a los desarrolladores trabajando. ¡Es hora de pagar las deudas!\n\nComo agradecimiento por tu ayuda recibirás 200 monedas para que sigas descargando tus refranes favoritos.",
+    
+    "noFavoritesTitle" : "Tu Lista de Favoritos está vacía",
+    "noFavoritesSubtitle" : "\nUtiliza el icono de corazón que está en la parte superior derecha de cada Proverbio para añadirlo a tu lista de favoritos.",
+
+    "ratingsAnswer1one" : "Pésima. No me gusta nada.",
+    "ratingsAnswer1two" : "Mala. Necesita mejorar algunos aspectos.",
+    "ratingsAnswer1three" : "Regular. Es una aplicación normal.",
+    "ratingsAnswer1four" : "Buena. Me gusta",
+    "ratingsAnswer1five" : "Excelente. Me encanta esta aplicación.",
+
+    "ratingsAnswer2one" : "Pésima. No me gusta nada.",
+    "ratingsAnswer2two" : "Mala. Necesita esfuerzo.",
+    "ratingsAnswer2three" : "Regular. Son normales.",
+    "ratingsAnswer2four" : "Buena. Me gustan.",
+    "ratingsAnswer2five" : "Excelente. ¡Me encantan!",
+
+    "ratingsAnswer4one" : "Son muy pocos, quiero muchos más.",
+    "ratingsAnswer4two" : "Algunos más no vendrían mal.",
+    "ratingsAnswer4three" : "Tiene los necesarios.",
+    "ratingsAnswer4four" : "Hay de sobra.",
+    "ratingsAnswer4five" : "Son más de los que necesito.",
+
+    "ratingsAnswer5one" : "Son más de los que permito",
+    "ratingsAnswer5two" : "Hay de sobra",
+    "ratingsAnswer5three" : "Tiene los necesarios",
+    "ratingsAnswer5four" : "Algunos más no vendrían mal",
+    "ratingsAnswer5five" : "Tiene la cantidad perfecta",
+
+    "feedbackButtonStart" : "COMENZAR",
+    "feedbackButtonNext" : "SIGUIENTE",
+    "feedbackButtonSendFeedback" : "ENVIAR OPINION",
+    "feedbackButtonGiveMeCoins" : "¡DAME ESAS MONEDAS!"
+}

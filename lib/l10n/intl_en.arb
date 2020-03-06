@@ -1,0 +1,149 @@
+{
+    "appTitle" : "Proverbs.",
+    "appSubtitle": "Discover. Download.",
+    "appSubtitleSecondLine" : "Share.",
+
+    "appDirectoryName" : "Proverbs", 
+
+    "loginPageSignInWithGoogle" : "Sign In with Google Account",
+    "loginPageSignInAnonymously" : "START",
+    
+    "homePageTitleDiscover" : "Discover",
+    "rewardPageTitle" : "Rewards",
+    "rewardPageInstructions" : "Complete the following actions to get rewards so you can download your favorite proverbs",
+    "rewardPageReward" : "Reward",
+    "rewardPageCompleted" : "Completed",
+    "rewardPageOf" : "of",
+
+    "favoritesPageTitle" : "Favorites",
+
+    "languagePageTitle" : "Languages",
+    "languagesPageShowProverbsIn" : "Show Proverbs in:",
+
+    "detailPageBack" : "BACK",
+    "detailPageMeaning" : "Meaning",
+
+    "tagNamesAll" : "All",
+    "tagNamesPopular" : "Popular",
+    "tagNamesNewest" : "Newest",
+    "tagNamesPremium" : "Premium",
+
+    "drawerGetMoreCoins" : "Get More Coins",
+    "drawerFavorites" : "Favorites",
+    "drawerNewApps" : "New Apps",
+    "drawerRateApp" : "Rate App",
+    "drawerShareApp" : "Share App",
+    "drawerFeedback" : "Feedback",
+    "drawerLanguages" : "Languages",
+    "drawerSignOut" : "Sign Out",
+    "drawerPremiumUser" : "Premium User",
+
+    "rewardsConsecutivesDays" : "Consecutive Days Connected",
+    "rewardsShareProverb" : "Share Proverbs",
+    "rewardsDownloadProverb" : "Download Proverbs",
+    "rewardsAddFavoriteProverb" : "Add Favorite Proverbs",
+    "rewardsRateApp" : "Rate App",
+    "rewardsFeedback" : "Give us Feedback",
+    "rewardsShareApp" : "Share App",
+
+    "detailPageLikeButton" : "Like",
+    "detailPageShareButton" : "Share",
+    "detailPageDownloadButton" : "Download",
+
+    "shareCTA" : "Download Proverbs in Google Play",
+    "shareSubject" : "I want to share a Proverb with you!",
+
+    "addFavoriteDialogTitle" : "Add to Favorites",
+    "addFavoriteDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins by add {currentPoints} Proverbs to Favorites.\n\nDo you want to double your reward?.",
+
+    "shareProverbsDialogTitle" : "Share {currentPoints} Proverbs",
+    "shareProverbsDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins by share {currentPoints} Proverbs.\n\nDo you want to double your reward?.",
+
+    "consecutiveDaysDialogTitle" : "{currentPoints} Consecutive Days Connected",
+    "consecutiveDaysDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins for connecting {currentPoints} consecutive days to our App.\n\nDo you want to double your reward?.",
+
+    "downloadProverbsDialogTitle" : "Download {currentPoints} Proverbs",
+    "downloadProverbsDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins by download {currentPoints} Proverbs.\n\nDo you want to double your reward?.",
+
+    "feedbackDialogTitle" : "Survey Completed",
+    "feedbackDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins to helping us to improve our App.\n\nDo you want to double your reward?.",
+
+    "rateAppDialogTitle" : "App Rated",
+    "rateAppDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins for rating our App.\n\nDo you want to double your reward?.",
+
+    "shareAppDialogTitle" : "App Shared",
+    "shareAppDialogDescription" : "Congratulations! You have earned {coinsRewarded} Coins for sharing our App.\n\nDo you want to double your reward?.",
+
+    "dialogButtonDoubleCoins" : "Get Double Coins",
+    "dialogButtonOK" : "Okay",
+
+    "needMoreCoinsDialogTitle" : "You need more Coins",
+    "needMoreCoinsDialogDescription" : "You need to get at least {coinsNeeded} more Coins to be able to download this Proverb.",
+    "needMoreCoinsDialogButtonText" : "OKAY",
+
+    "imageSaveSuccesfullyDialogTitle" : "File Saved Successfully",
+    "imageSaveSuccesfullyDialogDescription" : "You will find it in the \"Proverbs\" folder, inside your gallery.",
+    "imageSaveSuccesfullyDialogButtonText" : "THANKS!",
+
+    "imageSaveErrorDialogTitle" : "Download Failed",
+    "imageSaveErrorDialogDescription" : "An error occurred while downloading.\n\nCheck that you have enough space on your device.",
+    "imageSaveErrorDialogButtonText" : "I will try again!",
+
+    "promotedAppsPageTitle": "Brand New Apps",
+    "promotedAppsPageInstallButton": "INSTALL",
+
+    "promotedAppsTopTitle": "Download our brand new Apps",
+
+    "feedbackPageTitle": "Feedback",
+
+    "feedbackStepZeroQuestion": "Answer the following questions",
+    "feedbackStepZeroSubQuestion": "It is very easy to be honest!\n\nYour opinion will help us improve our App.\n\nAs a reward, at the end of the survey you will receive a mountain of Coins to continue downloading your favorite Proverbs.",
+
+    "feedbackStepOneQuestion": "With what score would you rate our App?",
+
+    "feedbackStepTwoQuestion": "Rate the quality of the Proverbs:",
+
+    "feedbackStepThreeQuestion": "Rate the quality of the images:",
+
+    "feedbackStepFourQuestion": "Do you have enough Proverbs available in the App?",
+
+    "feedbackStepFiveQuestion": "Rate the quantity of ads in our App",
+
+    "feedbackStepSixQuestion": "You are done!",
+    "feedbackStepSixSubQuestion": "We already have the developers working. It's time to pay off our debts!\n\nAs a reward for your help, you will receive 200 coins to continue downloading your favorite proverbs.",
+    
+    "noFavoritesTitle":"Your Favorites List is empty",
+    "noFavoritesSubtitle":"\nUse the heart icon at the top right of each Proverb to add it to your favorites list.",
+
+    "ratingsAnswer1one" : "Terrible. I do not like.",
+    "ratingsAnswer1two" : "Bad. You need to improve some aspects.",
+    "ratingsAnswer1three" : "Regular. It is a normal App.",
+    "ratingsAnswer1four" : "Good. I like it.",
+    "ratingsAnswer1five" : "Excellent. I love this App.",
+
+    "ratingsAnswer2one" : "Terrible. I do not like.",
+    "ratingsAnswer2two" : "Bad. It needs effort.",
+    "ratingsAnswer2three" : "Regular. They are normal.",
+    "ratingsAnswer2four" : "Good. I like them.",
+    "ratingsAnswer2five" : "Excellent. I love them.",
+
+    "ratingsAnswer4one" : "They are very few, I want many more.",
+    "ratingsAnswer4two" : "Some more would not hurt.",
+    "ratingsAnswer4three" : "It has the necessary ones.",
+    "ratingsAnswer4four" : "There is plenty.",
+    "ratingsAnswer4five" : "They are more than I need.",
+
+    "ratingsAnswer5one" : "They are more than I allow.",
+    "ratingsAnswer5two" : "There is plenty.",
+    "ratingsAnswer5three" : "It has the necessary ones.",
+    "ratingsAnswer5four" : "Some more would not hurt.",
+    "ratingsAnswer5five" : "It has the perfect amount.",
+
+    "feedbackButtonStart" : "START",
+    "feedbackButtonNext" : "NEXT",
+    "feedbackButtonSendFeedback" : "SEND FEEDBACK",
+    "feedbackButtonGiveMeCoins" : "GIVE ME THE COINS!"
+
+    
+
+}

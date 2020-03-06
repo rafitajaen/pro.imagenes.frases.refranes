@@ -15,6 +15,30 @@
       },
       "oauth_client": [
         {
+          "client_id": "100245767488-t5vkaqp74om4mmu16m7i6sebsmacgup1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.imagenes.frases.refranes",
+            "certificate_hash": "c2f4d23e8fd9a3422b87b6841d769099cc9e6fcf"
+          }
+        },
+        {
+          "client_id": "100245767488-020q439oqd0uq72ogg8534jt89racf87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.imagenes.frases.refranes",
+            "certificate_hash": "9baf69e3d834cf0937405c80e89d82ada943e95e"
+          }
+        },
+        {
+          "client_id": "100245767488-0c13b7eubn95vilcidf7g5pt2ij0nkk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.imagenes.frases.refranes",
+            "certificate_hash": "580d01a4771d40cacd7eb11579302381230a2e7e"
+          }
+        },
+        {
           "client_id": "100245767488-bl92q92l9mu9he4c6fhsoem601lc89jg.apps.googleusercontent.com",
           "client_type": 3
         }
